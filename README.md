@@ -1,4 +1,4 @@
-# ÀÌ°ÍÀº readme ÆÄÀÏÀÔ´Ï´Ù.
+# ì´ê²ƒì€ readme íŒŒì¼ì…ë‹ˆë‹¤.
 
-·ÎÄÃÀå¼Ò¿¡¼­ ¸¸µç ÆÄÀÏÀÔ´Ï´Ù.
-
+ë¡œì»¬ì¥ì†Œì—ì„œ ë§Œë“  íŒŒì¼ì…ë‹ˆë‹¤.
+[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
